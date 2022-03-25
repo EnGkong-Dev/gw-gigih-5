@@ -41,7 +41,6 @@ function Sidebar() {
             <p className='hover:text-white'>🎶 2020 Playlist Top</p>
             <p className='hover:text-white'>😶‍🌫️ 2021 Playlist Top</p>
             <p className='hover:text-white'>🤍 2022 Playlist Top</p>
-            <p className='hover:text-white'>🤍 2023 Playlist Top</p>
         </div>
       </div>
   )
